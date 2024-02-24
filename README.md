@@ -13,4 +13,4 @@ Submission by Team Edita for Envithon'24 organised by NSS (National Service Sche
 
 ## Requirements
 
-Update the Gemini API key (located in src/Components/Chat.jsx) with yours to enable EditaBot functionality. 
+Update the Gemini API key (located in src/Components/Chat.jsx) with yours to enable EditaBot functionality.
